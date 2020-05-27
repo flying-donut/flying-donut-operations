@@ -5,7 +5,7 @@ This is the Flying Donut Operations and Support project. The GitHub repository i
 
 ![Status of current sprint](https://www.flyingdonut.io/api/projects/519363e1e4b0f8cb1e1b7610/iterations/current/status.svg "Status of current sprint")
 
-As issues are created, those will appear in [Flying Donut](https://www.flyingdonut.io/static/#!/project/project-id=519363e1e4b0f8cb1e1b7610) automatically as backlog cards where everything is handled in Scrum prinicipals and methods.
+As issues are created, those will appear in [Flying Donut](https://www.flyingdonut.io/app/projects/519363e1e4b0f8cb1e1b7610) automatically as backlog cards where everything is handled in Scrum prinicipals and methods.
 
 The project has scheduled weekly sprints that handles issues and bug fixes.
 
